@@ -1,9 +1,10 @@
-**Hello there!** This is **Ajmal Leonard** (a.k.a. **Ajmaljs**).
+## Hello there!
+This is **Ajmal Leonard** (a.k.a. **Ajmaljs**).
 
-**Specs** >
+### Specs:
 
-- Focused on unleashing the potential of the Web.
-- 🙈 Also exploring the secrets of  AI, and LLMs development.
+- Focused on unleashing the potential of the Web and Mobile solutions.
+- 🙈 Exploring the secrets of AI and LLM development.
 - 💻 Write code to ~~satisfy myself~~, solve problems.
-- 🤗 Open to any new ideas! (Currently building SendBolt Email Design Tool with Claude Ai Intergration )
-- 🐾 Find some of my creative works on [marmaraholidays](https://marmaraholidays.com/) and [myblog](https://ajmaljs.com/).
+- 🤗 Open to any new ideas! Currently building **SendBolt**, an email design tool with Claude AI integration.
+- 🐾 Most of my contributions are based on private projects, so I’m flexible to work with any vision you currently have. Let's arrange a chat via [email](mailto:ajmal@ajmaljs.com).
