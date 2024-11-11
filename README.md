@@ -14,7 +14,7 @@
 
 #### Top Repositories
 <a href="https://github.com/ajmalleonard/gax-motion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=gax-motion&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=assigna&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/ajmalleonard/ajmalleonard.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=marmaraholidays-master&theme=dark#gh-dark-mode-only" />
