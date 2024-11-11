@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=assigna&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/ajmalleonard/ajmalleonard.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=marmaraholidays-master&theme=dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=hamo-refined&theme=dark#gh-dark-mode-only" />
 </a>
 
 <br />
