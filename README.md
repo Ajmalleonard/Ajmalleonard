@@ -10,14 +10,14 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajmalleonard\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Ajmal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajmalleonard\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 #### Top Repositories
 <a href="https://github.com/ajmalleonard/gax-motion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=gax-motion&theme=buefy" />
 </a>
 <a href="https://github.com/ajmalleonard/ajmalleonard.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=marmaraholidays-master&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=marmaraholidays-master&theme=dark#gh-dark-mode-only" />
 </a>
 
 <br />
