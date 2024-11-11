@@ -1,6 +1,9 @@
 # ⚠️ Attention <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   
-  <img src="https://camo.githubusercontent.com/c36739f5505f5a128711e4a52fea573d5375f4afa5740b1bfbc320fbf0cee010/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d614e423071416952564174792f67697068792e676966" alt="Alt cat" style="max-height: 50px;"/>
+  
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&rank_icon=github&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
+ <img src="https://camo.githubusercontent.com/c36739f5505f5a128711e4a52fea573d5375f4afa5740b1bfbc320fbf0cee010/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d614e423071416952564174792f67697068792e676966" alt="Alt cat" style="max-height: 50px;"/>
 </div>
 
 This is **Ajmal Leonard** (a.k.a. **Ajmaljs**).
