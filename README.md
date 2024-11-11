@@ -13,11 +13,11 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajmalleonard\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 #### Top Repositories
-<a href="https://github.com/ajmalleonard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/ajmalleonard/gax-motion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=gax-motion&theme=buefy" />
 </a>
 <a href="https://github.com/ajmalleonard/ajmalleonard.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=ajmalleonard.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=marmaraholidays-master&theme=buefy" />
 </a>
 
 <br />
