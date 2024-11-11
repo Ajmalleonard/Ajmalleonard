@@ -10,12 +10,9 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ajmalleonard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajmalleonard\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 #### Top Repositories
-
-
 <a href="https://github.com/ajmalleonard/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=github-readme-stats&theme=buefy" />
 </a>
