@@ -13,8 +13,8 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
-[![Ajmal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajmalleonard\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&layout=compact&theme=dark#gh-dark-mode-only)&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### Coming Distribution
 <a href="https://github.com/ajmalleonard/gax-motion">
