@@ -46,7 +46,7 @@
 <p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&theme=dark&hide_border=true" alt="Ajmalleonard" /></p>
 
 <details>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ More Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -92,8 +92,6 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   </p>
-</details>
-
   <h3>🛠️ DevOps & Infrastructure</h3>
   <p>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
@@ -109,6 +107,9 @@
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
     <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white">
   </p>
+</details>
+
+  
 
 
 <details>
