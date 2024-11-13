@@ -36,3 +36,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajmalleonard&repo=hamo-refined&theme=dark#gh-dark-mode-only" />
 </a>
 <br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&" alt="Ajmalleonard" /></p>
