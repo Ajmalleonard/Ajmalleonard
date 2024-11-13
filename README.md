@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Full-Stack+Developer;Nextjs+Developer;React-Native+Developer;Expert+Responsive+Designer;Nestjs+Developer;Problems+Engineer)](https://git.io/typing-svg)
 
-| <a target="_blank" href="https://www.ajmaljs.com"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_public_commits=true&theme=dark&hide_border=true" alt="Ajmal's Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a target="_blank" href="https://www.ajmaljs.com"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_public_commits=true&theme=dark&hide_border=true" alt="Ajmal's Stats" /></a> | <a href="https://ajmaljs.com"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&theme=dark&hide_border=true" alt="Ajmalleonard's streak" /></a> |
+|---|---|
 
 ## This is Ajmal Leonard
 
@@ -43,7 +43,7 @@
 
 <br />
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&theme=dark&hide_border=true" alt="Ajmalleonard" /></p>
+
 
 <details>
   <summary><h2>🛠️ More Favorite Tools</h2></summary>
@@ -112,22 +112,25 @@
   
 
 
-<details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  # Activity
+
+ ### 🔥 Streak Stats
   <p>
-    <a href="https://github.com/Ajmalleonard/github-readme-streak-stats">
+    <a href="https://ajmaljs.com">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ajmalleonard's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&theme=dark&hide_border=true"/>
     </a>
   </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
+ 
+  ---
+ ### GitHub Profile Stats
   <a href="https://github.com/Ajmalleonard/github-readme-stats"><img alt="Ajmalleonard's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ajmalleonard&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ajmalleonard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+  ---
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ajmalleonard's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ajmalleonard&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
-</details>
+
