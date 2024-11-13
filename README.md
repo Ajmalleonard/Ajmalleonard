@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Full-Stack+Developer;Nextjs+Developer;React-Native+Developer;Expert+Responsive+Designer;Nestjs+Developer;Problems+Engineer)](https://git.io/typing-svg)
 
-| <a target="_black" href="https://www.ajmaljs.com" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&layout=compact&theme=dark#gh-dark-mode-only)&hide_border=true" /></a> |
+| <a target="_black" href="https://www.ajmaljs.com" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_public_commits=true&theme=dark#gh-dark-mode-only)&hide_border=true" alt="Ajmal's Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&layout=compact&theme=dark#gh-dark-mode-only)&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
