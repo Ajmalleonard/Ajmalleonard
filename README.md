@@ -5,7 +5,7 @@
 
 
 ## This is Ajmal Leonard 
-- 📈 Built [Revolve](revolve.com), [Technogym](https://www.technogym.com/), fitality and more
+- 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/), fitality and more
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - Most of my contributions are based on private projects.
