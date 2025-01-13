@@ -8,7 +8,7 @@
 ## This is Ajmal Leonard
 <br/>
 
-- 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/), [fitality](www.fitality.uk),[marmaraholidays.com](www.marmaraholidays.com), and more.
+- 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/), [fitality](https://www.fitality.uk),[marmaraholidays.com](https://www.marmaraholidays.com), and more.
 - ❤️ I love writing TypeScript and building fun experiments on type-level.
 - Most of my contributions are based on private projects.
 - Focused on unleashing the potential of Web and Mobile solutions.
