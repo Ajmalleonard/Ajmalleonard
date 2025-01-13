@@ -1,4 +1,4 @@
-# ❤️ Attention <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# ❤️ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Full-Stack+Developer;Nextjs+Developer;React-Native+Developer;Expert+Responsive+Designer;Nestjs+Developer;Problems+Engineer)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 ## This is Ajmal Leonard
 <br/>
 
-- 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/), fitality, and more.
+- 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/), [fitality](www.fitality.uk),[marmaraholidays.com](www.marmaraholidays.com), and more.
 - ❤️ I love writing TypeScript and building fun experiments on type-level.
 - Most of my contributions are based on private projects.
 - Focused on unleashing the potential of Web and Mobile solutions.
