@@ -1,12 +1,18 @@
-# ❤️ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Full-Stack+Developer;Nextjs+Developer;React-Native+Developer;Expert+Responsive+Designer;Nestjs+Developer;Problems+Engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Samuel+Rizzon;Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I+build+products+fast;and+ship+often)
 
+<br>
 
-| <a target="_blank" href="https://www.ajmaljs.com"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&include_public_commits=true&theme=dark&hide_border=true" alt="Ajmal's Stats" /></a> | <a href="https://ajmaljs.com"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalleonard&theme=dark&hide_border=true" alt="Ajmalleonard's streak" /></a> |
-|---|---|
-## This is Ajmal Leonard
-<br/>
+<a href="https://www.thegitcity.com/dev/ajmalleonard">
+<img src="https://www.thegitcity.com/dev/ajmalleonard/opengraph-image" width="600" alt="Ajmal Leonard - Git City"/>
+</a>
+
+<br>
+
+**Working remotely for a NYC startup · 9+ years coding**
+
+</div>
 
 - 📈 Built [Revolve](https://www.revolve.com), [Technogym](https://www.technogym.com/),   [fitality](https://www.fitality.uk),   [marmaraholidays.com](https://www.marmaraholidays.com), and more.
 - ❤️ I love writing TypeScript and building fun experiments on type-level.
