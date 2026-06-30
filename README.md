@@ -6,11 +6,11 @@
 
 <br/>
 
-Full-stack engineer with **9+ years** of experience. Collaborated with **15+ major tech companies** across the US, UK, and Europe. Designed and built premium internal business tools that power real operations — and consumer products used by millions.
+Full-stack engineer with **8+ years** of experience. Collaborated with **15+ major tech companies** across the US, UK, and Europe. Designed and built premium internal business tools that power real operations — and consumer products used by millions.
 
 I reach for whatever the problem demands: systems-level Rust, cloud-native Go, native iOS with SwiftUI, or a React frontend shipped in a day. The language is a detail. The solution is everything.
 
-**Now building** [`SendBolt`](https://ajmaljs.com) — AI-powered email design, built with Claude.
+
 
 ---
 
@@ -30,12 +30,6 @@ I reach for whatever the problem demands: systems-level Rust, cloud-native Go, n
 
 ## Numbers
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajmalleonard&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalleonard&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
-
-</div>
 
 <div align="center">
 
