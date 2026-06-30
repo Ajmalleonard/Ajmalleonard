@@ -47,12 +47,6 @@ I reach for whatever the problem demands: systems-level Rust, cloud-native Go, n
 
 </div>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ajmalleonard&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## Contributions
