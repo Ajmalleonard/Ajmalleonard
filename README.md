@@ -1,57 +1,59 @@
-<div align="center">
+<h2>I was here since 2017 at age of 14s</h2>
+<h1>Currently Building <a href="https://github.com/ajmalleonard/opin">Opin</a> Autonomously Engine  </h1>
+<h3><a href="mailto:[ajmal@squareexp.com]">Mail me </a> | <a href="tel:+15819000769">+1 (581) 900-0769</a> </h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&width=700&lines=Ajmal+Leonard;Full-Stack+Engineer+%C2%B7+Dar+es+Salaam+%F0%9F%87%B9%F0%9F%87%BF;9%2B+years+%C2%B7+15%2B+companies+%C2%B7+All+the+tech)
+<!-- Header Links -->
+
+[![Company](https://img.shields.io/badge/-Company-black?style=flat\&logo=appveyor\&logoColor=white)](https://squareexp.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat\&logo=Github\&logoColor=white)](https://github.com/ajmalleonard)
+[![X](https://img.shields.io/badge/-Ajmaljs-black?style=flat\&logo=x\&logoColor=white)](https://x.com/ajmaljs_dev)
+
+<!-- Short Bio -->
+
+<!-- </samp> for  -->
+
+I'm just a guy who works for the future
+
+***
+
+#### here are my other opensource project
+
+## [ Opin ](https://github.com/ajmalleonard/opin)
+
+We didn't let AI to sound like a bubble instead we took it seriously and made it emmotional , helpful and decide for us and learn from us. built on pure typescript.
+
+***
+
+## [Opincode](https://github.com/squareexp/opincode-ai)
+
+This started as our UI-first terminal since 2020. After the AI boom we changed it to Coding tool, a product to help our team write code faster and more accurately. It lets you connect to most of providers out there. it's one of our fun project ever . check it out..
+
+<!-- Tech Stack -->
+
+***
+
+<div>
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust">
+			<img alt="Swift" src="https://img.shields.io/badge/Swift-05122A?logo=swift&style=flat">
+			<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?logo=typescript&style=flat">
+			<img alt="Golang" src="https://img.shields.io/badge/Golang-05122A?style=flat&logo=go&logoColor=white" alt="Golang">
+			<img alt="Flutter" src="https://img.shields.io/badge/Flutter-05122A?logo=flutter&style=flat">
+		</kbd>
+	</p>
 
 </div>
 
-<br/>
-
-Full-stack engineer with **8+ years** of experience. Collaborated with **15+ major tech companies** across the US, UK, and Europe. Designed and built premium internal business tools that power real operations — and consumer products used by millions.
-
-I reach for whatever the problem demands: systems-level Rust, cloud-native Go, native iOS with SwiftUI, or a React frontend shipped in a day. The language is a detail. The solution is everything.
-
-
-
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,go,rust,swift,python,dart,bash&perline=8" />
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flutter,tailwind,express,graphql&perline=8" />
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,linux,cloudflare,vercel,figma&perline=8" />
-
-</div>
-
----
-
-## Numbers
-
-
-<div align="center">
-
-[![Streak](https://streak-stats.demolab.com/?user=ajmalleonard&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajmalleonard&bg_color=0d1117&color=ccff00&line=ccff00&point=ffffff&area=true&area_color=22ff0020&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Contributions
+<!-- Activity Graph card -->
 
 ![Space Shooter](game.gif)
+![My Breaths per second](https://github-readme-activity-graph.vercel.app/graph?username=ajmalleonard\&custom_title=Real%20Contribution%20Graph\&bg_color=0d1017\&color=e8edf3\&line=e8edf3\&point=e8edf3\&area_color=FFFFFF\&title_color=FFFFFF\&area=true\&hide_border=true)
 
----
-
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![GitHub followers](https://img.shields.io/github/followers/ajmalleonard?style=flat\&logo=github\&color=05122A\&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=amangupta143\&style=flat\&labelolor=05122A\&color=05122A)
